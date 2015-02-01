@@ -1,0 +1,24 @@
+html {
+	background-position: center;
+    background-image: url("love4.jpg");
+}
+
+
+h1 {
+    font-size: 3em;
+    text-shadow: 3px 3px hotpink;
+    color: white;
+    font-weight: bold;
+}
+
+footer {
+    color: white;
+	background-color:rgba(0,0,0,0.4);
+	bottom: 0px;
+	left: 45%;
+	position: fixed;
+}
+
+body {
+    font-family: serif;
+}
